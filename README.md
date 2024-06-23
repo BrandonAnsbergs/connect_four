@@ -20,18 +20,26 @@ The programming language used is Rust, and no additional libraries were required
 Here are some websites that I found helpful during this project:
 
 -[Rust](https://www.tutorialspoint.com/rust/index.htm)
+
 -[Rust Tutorial](https://www.tutorialspoint.com/rust/index.htm)
+
 -[YouTube](https://www.youtube.com/watch?v=nnqZtBgnWKM)
 
 # Future Work
 Here are some things that I need to fix, improve, and add in the future:
 
 -Add AI for a single-player mode.
+
 -Implement a graphical user interface (GUI) for better user experience.
+
 -Optimize the code for better performance.
+
 -Add more comprehensive error handling and edge case management.
+
 -Enhance the display for better visual appeal.
+
 -Implement saving and loading of game states.
+
 -Add more customization options for the game (e.g., board size, win conditions).
 
 
